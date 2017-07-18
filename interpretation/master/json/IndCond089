@@ -1,0 +1,26 @@
+{
+  "id": "IndCond089",
+  "type": "IndividualCondition",
+  "individual": {
+    "id": "Indiv009",
+    "type": "Individual",
+    "description": "individual #009"
+  },
+  "condition": [
+    {
+      "id": "MendCond019",
+      "type": "MendelianCondition",
+      "explanation": "cardiofaciocutaneous syndrome",
+      "disease": [
+        {
+          "id": "Orphanet:1340",
+          "type": "Coding",
+          "code": "1340",
+          "system": "http://www.orpha.net/",
+          "display": "cardiofaciocutaneous syndrome"
+        }
+      ]
+    }
+  ],
+  "hasCondition": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll060",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll056",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll060",
+    "identifier": "http://reg.genome.network/allele/CA501228"
+  },
+  "alleleName": "NP_009225.1:p.Leu1764Ile"
+}

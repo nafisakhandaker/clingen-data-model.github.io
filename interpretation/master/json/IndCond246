@@ -1,0 +1,26 @@
+{
+  "id": "IndCond246",
+  "type": "IndividualCondition",
+  "individual": {
+    "id": "Indiv026",
+    "type": "Individual",
+    "description": "individual #026"
+  },
+  "condition": [
+    {
+      "id": "MendCond060",
+      "type": "MendelianCondition",
+      "explanation": "nonsyndromic deafness",
+      "disease": [
+        {
+          "id": "Orphanet:87884",
+          "type": "Coding",
+          "code": "87884",
+          "system": "http://www.orpha.net/",
+          "display": "nonsyndromic deafness"
+        }
+      ]
+    }
+  ],
+  "hasCondition": true
+}

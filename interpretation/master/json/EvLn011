@@ -1,0 +1,70 @@
+{
+  "id": "EvLn011",
+  "type": "EvidenceLine",
+  "explanation": "EvLn011",
+  "information": [
+    {
+      "id": "IndCond018",
+      "type": "IndividualCondition",
+      "individual": {
+        "id": "Indiv003",
+        "type": "Individual",
+        "description": "individual #003"
+      },
+      "condition": [
+        {
+          "id": "MendCond009",
+          "type": "MendelianCondition",
+          "explanation": "Epilepsy with Mental Retardation",
+          "name": "Epilepsy with Mental Retardation"
+        }
+      ],
+      "hasCondition": true
+    },
+    {
+      "id": "FamHist019",
+      "type": "FamilyHistory",
+      "proband": {
+        "id": "Indiv003",
+        "type": "Individual",
+        "description": "individual #003"
+      },
+      "condition": [
+        {
+          "id": "MendCond009",
+          "type": "MendelianCondition",
+          "explanation": "Epilepsy with Mental Retardation",
+          "name": "Epilepsy with Mental Retardation"
+        }
+      ],
+      "familyHasCondition": true
+    },
+    {
+      "id": "DeNovo020",
+      "type": "DeNovoAllele",
+      "explanation": "Variant from trio WES, which confirmed parentage",
+      "canonicalAllele": {
+        "id": "CanAll016",
+        "type": "CanonicalAllele",
+        "preferredCtxAllele": "CtxAll019",
+        "identifier": "http://reg.genome.network/allele/CA354186"
+      },
+      "individual": {
+        "id": "Indiv003",
+        "type": "Individual",
+        "description": "individual #003"
+      },
+      "maternityConfirmed": true,
+      "paternityConfirmed": true,
+      "alleleInheritance": [
+        {
+          "id": "CG-allele-inheritance:denovo",
+          "type": "Coding",
+          "code": "denovo",
+          "system": "http://clinicalgenome.org/datamodel/allele-inheritance/",
+          "display": "de novo"
+        }
+      ]
+    }
+  ]
+}

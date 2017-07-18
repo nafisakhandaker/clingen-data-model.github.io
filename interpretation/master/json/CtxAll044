@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll044",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll040",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll044",
+    "identifier": "http://reg.genome.network/allele/CA273136"
+  },
+  "alleleName": "NP_001360.1:p.Trp2490_Leu2496del"
+}

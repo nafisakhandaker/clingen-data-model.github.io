@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll006",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll005",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll006",
+    "identifier": "http://reg.genome.network/allele/CA220155"
+  },
+  "alleleName": "NM_002834.3(PTPN11):c.853T>C (p.Phe285Leu)"
+}

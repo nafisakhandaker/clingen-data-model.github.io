@@ -1,0 +1,88 @@
+{
+  "id": "EvLn010",
+  "type": "EvidenceLine",
+  "explanation": "EvLn010",
+  "information": [
+    {
+      "id": "IndCond015",
+      "type": "IndividualCondition",
+      "individual": {
+        "id": "Indiv002",
+        "type": "Individual",
+        "description": "individual #002"
+      },
+      "condition": [
+        {
+          "id": "MendCond008",
+          "type": "MendelianCondition",
+          "explanation": "desmin related myopathy",
+          "disease": [
+            {
+              "id": "OMIM:601419",
+              "type": "Coding",
+              "code": "601419",
+              "system": "http://www.omim.org/",
+              "display": "myofibrillar myopathy 1"
+            }
+          ],
+          "name": "desmin related myopathy"
+        }
+      ],
+      "hasCondition": true
+    },
+    {
+      "id": "FamHist016",
+      "type": "FamilyHistory",
+      "proband": {
+        "id": "Indiv002",
+        "type": "Individual",
+        "description": "individual #002"
+      },
+      "condition": [
+        {
+          "id": "MendCond008",
+          "type": "MendelianCondition",
+          "explanation": "desmin related myopathy",
+          "disease": [
+            {
+              "id": "OMIM:601419",
+              "type": "Coding",
+              "code": "601419",
+              "system": "http://www.omim.org/",
+              "display": "myofibrillar myopathy 1"
+            }
+          ],
+          "name": "desmin related myopathy"
+        }
+      ],
+      "familyHasCondition": true
+    },
+    {
+      "id": "DeNovo017",
+      "type": "DeNovoAllele",
+      "explanation": "Non-paternity was excluded by assessment with microsatellites",
+      "canonicalAllele": {
+        "id": "CanAll015",
+        "type": "CanonicalAllele",
+        "preferredCtxAllele": "CtxAll018",
+        "identifier": "http://reg.genome.network/allele/CA257646"
+      },
+      "individual": {
+        "id": "Indiv002",
+        "type": "Individual",
+        "description": "individual #002"
+      },
+      "maternityConfirmed": true,
+      "paternityConfirmed": true,
+      "alleleInheritance": [
+        {
+          "id": "CG-allele-inheritance:denovo",
+          "type": "Coding",
+          "code": "denovo",
+          "system": "http://clinicalgenome.org/datamodel/allele-inheritance/",
+          "display": "de novo"
+        }
+      ]
+    }
+  ]
+}

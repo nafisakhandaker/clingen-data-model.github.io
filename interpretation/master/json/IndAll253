@@ -1,0 +1,21 @@
+{
+  "id": "IndAll253",
+  "type": "IndividualAllele",
+  "individual": {
+    "id": "Indiv028",
+    "type": "Individual",
+    "description": "individual #028"
+  },
+  "primaryAllele": {
+    "id": "CanAll112",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll118",
+    "identifier": "http://reg.genome.network/allele/CA204551"
+  },
+  "secondaryAllele": {
+    "id": "CanAll113",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll119",
+    "identifier": "http://reg.genome.network/allele/CA254703"
+  }
+}

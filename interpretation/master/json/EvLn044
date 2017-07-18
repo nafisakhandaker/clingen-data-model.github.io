@@ -1,0 +1,85 @@
+{
+  "id": "EvLn044",
+  "type": "EvidenceLine",
+  "explanation": "EvLn044",
+  "information": [
+    {
+      "id": "IndCond092",
+      "type": "IndividualCondition",
+      "individual": {
+        "id": "Indiv010",
+        "type": "Individual",
+        "description": "individual #010"
+      },
+      "condition": [
+        {
+          "id": "MendCond068",
+          "type": "MendelianCondition",
+          "explanation": "cardiofaciocutaneous syndrome",
+          "disease": [
+            {
+              "id": "Orphanet:1340",
+              "type": "Coding",
+              "code": "1340",
+              "system": "http://www.orpha.net/",
+              "display": "cardiofaciocutaneous syndrome"
+            }
+          ]
+        }
+      ],
+      "hasCondition": true
+    },
+    {
+      "id": "FamHist093",
+      "type": "FamilyHistory",
+      "proband": {
+        "id": "Indiv010",
+        "type": "Individual",
+        "description": "individual #010"
+      },
+      "condition": [
+        {
+          "id": "MendCond068",
+          "type": "MendelianCondition",
+          "explanation": "cardiofaciocutaneous syndrome",
+          "disease": [
+            {
+              "id": "Orphanet:1340",
+              "type": "Coding",
+              "code": "1340",
+              "system": "http://www.orpha.net/",
+              "display": "cardiofaciocutaneous syndrome"
+            }
+          ]
+        }
+      ],
+      "familyHasCondition": true
+    },
+    {
+      "id": "DeNovo094",
+      "type": "DeNovoAllele",
+      "canonicalAllele": {
+        "id": "CanAll061",
+        "type": "CanonicalAllele",
+        "preferredCtxAllele": "CtxAll065",
+        "identifier": "http://reg.genome.network/allele/CA279976"
+      },
+      "individual": {
+        "id": "Indiv010",
+        "type": "Individual",
+        "description": "individual #010"
+      },
+      "maternityConfirmed": true,
+      "paternityConfirmed": true,
+      "alleleInheritance": [
+        {
+          "id": "CG-allele-inheritance:denovo",
+          "type": "Coding",
+          "code": "denovo",
+          "system": "http://clinicalgenome.org/datamodel/allele-inheritance/",
+          "display": "de novo"
+        }
+      ]
+    }
+  ]
+}

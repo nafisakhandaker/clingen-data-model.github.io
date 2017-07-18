@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll030",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll027",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll030",
+    "identifier": "http://reg.genome.network/allele/CA352275"
+  },
+  "alleleName": "NM_000169.2(GLA):c.902G>C"
+}

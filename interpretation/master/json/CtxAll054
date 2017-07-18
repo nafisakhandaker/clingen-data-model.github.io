@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll054",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll050",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll054",
+    "identifier": "http://reg.genome.network/allele/CA180540"
+  },
+  "alleleName": "NP_000354.4:p.Arg162Trp"
+}

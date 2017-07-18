@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll038",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll034",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll038",
+    "identifier": "http://reg.genome.network/allele/CA273141"
+  },
+  "alleleName": "NM_001399.4(EDA): c.676C>T"
+}

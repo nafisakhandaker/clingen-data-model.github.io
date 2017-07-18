@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll036",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll033",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll037",
+    "identifier": "http://reg.genome.network/allele/CA011797"
+  },
+  "alleleName": "NC_000001.10:g.45800156C>T"
+}

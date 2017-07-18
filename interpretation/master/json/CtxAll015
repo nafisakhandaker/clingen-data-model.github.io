@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll015",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll012",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll015",
+    "identifier": "http://reg.genome.network/allele/CA341207"
+  },
+  "alleleName": "NP_005334.1:p.Thr58Ile"
+}

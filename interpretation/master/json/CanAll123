@@ -1,0 +1,6 @@
+{
+  "id": "CanAll123",
+  "type": "CanonicalAllele",
+  "preferredCtxAllele": "CtxAll129",
+  "identifier": "http://reg.genome.network/allele/CA273665"
+}

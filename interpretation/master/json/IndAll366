@@ -1,0 +1,28 @@
+{
+  "id": "IndAll366",
+  "type": "IndividualAllele",
+  "individual": {
+    "id": "Indiv029",
+    "type": "Individual",
+    "description": "individual #029"
+  },
+  "primaryAllele": {
+    "id": "CanAll092",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll098",
+    "identifier": "http://reg.genome.network/allele/CA090950"
+  },
+  "secondaryAllele": {
+    "id": "CanAll122",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll128",
+    "identifier": "http://reg.genome.network/allele/CA253304"
+  },
+  "phase": {
+    "id": "CG-phase:trans",
+    "type": "Coding",
+    "code": "trans",
+    "system": "http://clinicalgenome.org/datamodel/phase/",
+    "display": "in trans"
+  }
+}

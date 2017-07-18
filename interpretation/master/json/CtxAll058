@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll058",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll054",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll058",
+    "identifier": "http://reg.genome.network/allele/CA102377"
+  },
+  "alleleName": "NP_000522.3:p.Arg40His"
+}

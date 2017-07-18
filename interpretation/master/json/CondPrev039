@@ -1,0 +1,36 @@
+{
+  "id": "CondPrev039",
+  "type": "ConditionPrevelance",
+  "condition": [
+    {
+      "id": "MendCond057",
+      "type": "MendelianCondition",
+      "explanation": "Hearing Loss",
+      "disease": [
+        {
+          "id": "Orphanet:87884",
+          "type": "Coding",
+          "code": "87884",
+          "system": "http://www.orpha.net/",
+          "display": "nonsyndromic deafness"
+        }
+      ],
+      "name": "Hearing Loss"
+    }
+  ],
+  "minimum": 1.0,
+  "maximum": 1.0,
+  "population": {
+    "id": "CC026",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "CG-population-type:overall",
+        "type": "Coding",
+        "code": "overall",
+        "system": "http://clinicalgenome.org/datamodel/population-type/",
+        "display": "Overall"
+      }
+    ]
+  }
+}

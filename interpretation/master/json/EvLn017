@@ -1,0 +1,41 @@
+{
+  "id": "EvLn017",
+  "type": "EvidenceLine",
+  "explanation": "EvLn017",
+  "information": [
+    {
+      "id": "Func026",
+      "type": "FunctionalData",
+      "result": "abnormal/deceased MEK activtation.",
+      "dataType": {
+        "id": "CC020",
+        "type": "CodeableConcept",
+        "coding": [
+          {
+            "id": "CG-func-data-type:activation",
+            "type": "Coding",
+            "code": "activation",
+            "system": "http://clinicalgenome.org/datamodel/functional-data-type/",
+            "display": "Activation Assay"
+          }
+        ]
+      },
+      "contextualAllele": {
+        "id": "CtxAll024",
+        "type": "ContextualAllele",
+        "relatedCanonicalAllele": {
+          "id": "CanAll021",
+          "type": "CanonicalAllele",
+          "preferredCtxAllele": "CtxAll024",
+          "identifier": "http://reg.genome.network/allele/CA093846"
+        },
+        "alleleName": "NP_004324.2:p.Gly596Val"
+      },
+      "gene": {
+        "id": "hgnc:MEK",
+        "type": "Gene",
+        "symbol": "MEK"
+      }
+    }
+  ]
+}

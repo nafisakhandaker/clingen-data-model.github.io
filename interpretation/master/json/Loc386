@@ -1,0 +1,13 @@
+{
+  "id": "Loc386",
+  "type": "Locus",
+  "referenceSequence": {
+    "id": "RefSeq006",
+    "type": "ReferenceSequence",
+    "accession": {
+      "id": "NP_056375.2"
+    }
+  },
+  "start": 35,
+  "stop": 43
+}

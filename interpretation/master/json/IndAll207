@@ -1,0 +1,28 @@
+{
+  "id": "IndAll207",
+  "type": "IndividualAllele",
+  "individual": {
+    "id": "Indiv022",
+    "type": "Individual",
+    "description": "individual #022"
+  },
+  "primaryAllele": {
+    "id": "CanAll094",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll100",
+    "identifier": "http://reg.genome.network/allele/CA143572"
+  },
+  "secondaryAllele": {
+    "id": "CanAll095",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll101",
+    "identifier": "http://reg.genome.network/allele/CA252233"
+  },
+  "phase": {
+    "id": "CG-phase:cis",
+    "type": "Coding",
+    "code": "cis",
+    "system": "http://clinicalgenome.org/datamodel/phase/",
+    "display": "in cis"
+  }
+}

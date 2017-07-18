@@ -1,0 +1,17 @@
+{
+  "id": "AllFreq029",
+  "type": "AlleleFrequency",
+  "ascertainment": {
+    "id": "CC010",
+    "type": "CodeableConcept",
+    "text": "Across all published data (and LMM data) with hearing loss."
+  },
+  "allele": {
+    "id": "CanAll022",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll025",
+    "identifier": "http://reg.genome.network/allele/CA253316"
+  },
+  "alleleCount": 32,
+  "alleleNumber": 4076
+}

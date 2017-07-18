@@ -1,0 +1,55 @@
+{
+  "id": "MolCon066",
+  "type": "MolecularConsequence",
+  "contextualAllele": {
+    "id": "CtxAll044",
+    "type": "ContextualAllele",
+    "relatedCanonicalAllele": {
+      "id": "CanAll040",
+      "type": "CanonicalAllele",
+      "preferredCtxAllele": "CtxAll044",
+      "identifier": "http://reg.genome.network/allele/CA273136"
+    },
+    "alleleName": "NP_001360.1:p.Trp2490_Leu2496del"
+  },
+  "consequence": {
+    "id": "CC054",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "SO:0001825",
+        "type": "Coding",
+        "code": "0001825",
+        "system": "http://sequenceontology.org/",
+        "display": "conservative Inframe Deletion"
+      }
+    ]
+  },
+  "contribution": [
+    {
+      "type": "Contribution",
+      "agent": {
+        "id": "Agent001",
+        "type": "Agent",
+        "name": "Harry Stevenson"
+      },
+      "onDate": "6/1/16 2:03 PM",
+      "role": {
+        "id": "CC388",
+        "type": "CodeableConcept",
+        "coding": [
+          {
+            "id": "CG-contributory-role:curator",
+            "type": "Coding",
+            "code": "curator",
+            "system": "http://clinicalgenome.org/datamodel/contributory-role/",
+            "display": "curator"
+          }
+        ]
+      }
+    }
+  ],
+  "source": [
+    "https://geneinsight-lmm-test.partners.org"
+  ]
+}

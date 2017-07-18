@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll117",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll111",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll117",
+    "identifier": "http://reg.genome.network/allele/CA277980"
+  },
+  "alleleName": "NM_015404.3(WHRN):c.643delG"
+}

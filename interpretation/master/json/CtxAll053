@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll053",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll049",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll053",
+    "identifier": "http://reg.genome.network/allele/CA021738"
+  },
+  "alleleName": "NM_000363.4(TNNI3):c.484C>T"
+}

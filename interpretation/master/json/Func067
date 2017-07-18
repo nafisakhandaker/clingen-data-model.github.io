@@ -1,0 +1,35 @@
+{
+  "id": "Func067",
+  "type": "FunctionalData",
+  "explanation": "PMID: 23487764",
+  "result": "increased ERK activtation",
+  "dataType": {
+    "id": "CC055",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "CG-func-data-type:activation",
+        "type": "Coding",
+        "code": "activation",
+        "system": "http://clinicalgenome.org/datamodel/functional-data-type/",
+        "display": "Activation Assay"
+      }
+    ]
+  },
+  "contextualAllele": {
+    "id": "CtxAll130",
+    "type": "ContextualAllele",
+    "relatedCanonicalAllele": {
+      "id": "CanAll124",
+      "type": "CanonicalAllele",
+      "preferredCtxAllele": "CtxAll130",
+      "identifier": "http://reg.genome.network/allele/CA090930"
+    },
+    "alleleName": "NM_005633.3(SOS1):c.1010A>G (p.Tyr337Cys)"
+  },
+  "gene": {
+    "id": "hgnc:SOS1",
+    "type": "Gene",
+    "symbol": "SOS1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "PS2",
+  "type": "Criterion",
+  "description": "De novo (both maternity and paternity confirmed) in a patient with the disease and no family history",
+  "shortDescription": "Confirmed de novo in individual without family history of condition",
+  "defaultStrength": {
+    "id": "CG-evidence-strength:ps"
+  }
+}

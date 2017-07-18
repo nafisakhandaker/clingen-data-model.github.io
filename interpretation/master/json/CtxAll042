@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll042",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll038",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll042",
+    "identifier": "http://reg.genome.network/allele/CA501223"
+  },
+  "alleleName": "NM_133261.2(GIPC3):c.411+1G>A"
+}

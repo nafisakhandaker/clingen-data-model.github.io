@@ -1,0 +1,26 @@
+{
+  "id": "IndCond212",
+  "type": "IndividualCondition",
+  "individual": {
+    "id": "Indiv023",
+    "type": "Individual",
+    "description": "individual #023"
+  },
+  "condition": [
+    {
+      "id": "MendCond039",
+      "type": "MendelianCondition",
+      "explanation": "Absent vas deferens",
+      "phenotype": [
+        {
+          "id": "HP:0012873",
+          "type": "Coding",
+          "code": "0012873",
+          "system": "http://human-phenotype-ontology.github.io/",
+          "display": "Absent vas deferens"
+        }
+      ]
+    }
+  ],
+  "hasCondition": true
+}

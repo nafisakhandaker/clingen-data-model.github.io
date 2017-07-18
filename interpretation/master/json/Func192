@@ -1,0 +1,34 @@
+{
+  "id": "Func192",
+  "type": "FunctionalData",
+  "result": "Unchanged from reference",
+  "dataType": {
+    "id": "CC134",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "CG-func-data-type:iodeff",
+        "type": "Coding",
+        "code": "iodeff",
+        "system": "http://clinicalgenome.org/datamodel/functional-data-type/",
+        "display": "iodide efflux"
+      }
+    ]
+  },
+  "contextualAllele": {
+    "id": "CtxAll092",
+    "type": "ContextualAllele",
+    "relatedCanonicalAllele": {
+      "id": "CanAll086",
+      "type": "CanonicalAllele",
+      "preferredCtxAllele": "CtxAll092",
+      "identifier": "http://reg.genome.network/allele/CA109417"
+    },
+    "alleleName": "NP_000432..1:p.Leu117Phe"
+  },
+  "gene": {
+    "id": "hgnc:SLC26A4",
+    "type": "Gene",
+    "symbol": "SLC26A4"
+  }
+}

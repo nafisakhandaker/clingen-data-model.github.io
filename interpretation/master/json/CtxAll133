@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll133",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll127",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll133",
+    "identifier": "http://reg.genome.network/allele/CA273507"
+  },
+  "alleleName": "NM_004333.4(BRAF):c.1449A>C"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "AllFreq028",
+  "type": "AlleleFrequency",
+  "ascertainment": {
+    "id": "CC009",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "CG-ascertainment-type:ExAC",
+        "type": "Coding",
+        "code": "ExAC",
+        "system": "http://clinicalgenome.org/datamodel/ascertainment-type/",
+        "display": "ExAC"
+      }
+    ]
+  },
+  "allele": {
+    "id": "CanAll022",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll025",
+    "identifier": "http://reg.genome.network/allele/CA253316"
+  },
+  "alleleCount": 105,
+  "alleleNumber": 121336
+}

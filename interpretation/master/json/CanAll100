@@ -1,0 +1,6 @@
+{
+  "id": "CanAll100",
+  "type": "CanonicalAllele",
+  "preferredCtxAllele": "CtxAll106",
+  "identifier": "http://reg.genome.network/allele/CA148212"
+}

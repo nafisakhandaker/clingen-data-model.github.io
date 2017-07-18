@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll048",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll044",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll048",
+    "identifier": "http://reg.genome.network/allele/CA501225"
+  },
+  "alleleName": "NP_003915.2:p.Ala260_Gly261insAlaAlaAlaAlaAla"
+}

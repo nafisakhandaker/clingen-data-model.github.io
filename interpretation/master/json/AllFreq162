@@ -1,0 +1,41 @@
+{
+  "id": "AllFreq162",
+  "type": "AlleleFrequency",
+  "ascertainment": {
+    "id": "CC043",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "CG-ascertainment-type:ExAC",
+        "type": "Coding",
+        "code": "ExAC",
+        "system": "http://clinicalgenome.org/datamodel/ascertainment-type/",
+        "display": "ExAC"
+      }
+    ]
+  },
+  "population": {
+    "id": "CC114",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "CG-population-type:combined",
+        "type": "Coding",
+        "code": "combined",
+        "system": "http://clinicalgenome.org/datamodel/population-type/",
+        "display": "Combined"
+      }
+    ]
+  },
+  "allele": {
+    "id": "CanAll079",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll085",
+    "identifier": "http://reg.genome.network/allele/CA090926"
+  },
+  "alleleCount": 545,
+  "alleleNumber": 87696,
+  "alleleFrequency": 0.00625,
+  "homozygousAlleleIndividualCount": 1,
+  "hemizygousAlleleIndividualCount": 206
+}

@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll052",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll048",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll052",
+    "identifier": "http://reg.genome.network/allele/CA099236"
+  },
+  "alleleName": "NP_000354.4:p.Arg162Pro"
+}

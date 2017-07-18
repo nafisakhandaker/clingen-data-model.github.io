@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll059",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll055",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll059",
+    "identifier": "http://reg.genome.network/allele/CA501227"
+  },
+  "alleleName": "NM_007294.3(BRCA1):c.5290C>A"
+}

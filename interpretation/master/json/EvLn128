@@ -1,0 +1,83 @@
+{
+  "id": "EvLn128",
+  "type": "EvidenceLine",
+  "explanation": "EvLn128",
+  "information": [
+    {
+      "id": "DeNovo106",
+      "type": "DeNovoAllele",
+      "canonicalAllele": {
+        "id": "CanAll125",
+        "type": "CanonicalAllele",
+        "preferredCtxAllele": "CtxAll131",
+        "identifier": "http://reg.genome.network/allele/CA280055"
+      },
+      "individual": {
+        "id": "Indiv03"
+      },
+      "maternityConfirmed": true,
+      "paternityConfirmed": true,
+      "alleleInheritance": [
+        {
+          "id": "CG-allele-inheritance:denovo",
+          "type": "Coding",
+          "code": "denovo",
+          "system": "http://clinicalgenome.org/datamodel/allele-inheritance/",
+          "display": "de novo"
+        }
+      ]
+    },
+    {
+      "id": "IndCond110",
+      "type": "IndividualCondition",
+      "individual": {
+        "id": "Indiv030",
+        "type": "Individual",
+        "description": "individual #030"
+      },
+      "condition": [
+        {
+          "id": "MendCond069",
+          "type": "MendelianCondition",
+          "explanation": "cardiofaciocutaneous syndrome",
+          "disease": [
+            {
+              "id": "Orphanet:1340",
+              "type": "Coding",
+              "code": "1340",
+              "system": "http://www.orpha.net/",
+              "display": "cardiofaciocutaneous syndrome"
+            }
+          ]
+        }
+      ],
+      "hasCondition": true
+    },
+    {
+      "id": "FamHist112",
+      "type": "FamilyHistory",
+      "proband": {
+        "id": "Indiv030",
+        "type": "Individual",
+        "description": "individual #030"
+      },
+      "condition": [
+        {
+          "id": "MendCond069",
+          "type": "MendelianCondition",
+          "explanation": "cardiofaciocutaneous syndrome",
+          "disease": [
+            {
+              "id": "Orphanet:1340",
+              "type": "Coding",
+              "code": "1340",
+              "system": "http://www.orpha.net/",
+              "display": "cardiofaciocutaneous syndrome"
+            }
+          ]
+        }
+      ],
+      "familyHasCondition": true
+    }
+  ]
+}

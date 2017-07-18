@@ -1,0 +1,26 @@
+{
+  "id": "IndCond242",
+  "type": "IndividualCondition",
+  "individual": {
+    "id": "Indiv025",
+    "type": "Individual",
+    "description": "individual #025"
+  },
+  "condition": [
+    {
+      "id": "MendCond067",
+      "type": "MendelianCondition",
+      "explanation": "hypertrophic cardiomyopathy",
+      "disease": [
+        {
+          "id": "Orphanet:217569",
+          "type": "Coding",
+          "code": "217569",
+          "system": "http://www.orpha.net/",
+          "display": "hypertrophic cardiomyopathy"
+        }
+      ]
+    }
+  ],
+  "hasCondition": true
+}

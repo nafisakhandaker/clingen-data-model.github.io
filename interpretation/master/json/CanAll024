@@ -1,0 +1,6 @@
+{
+  "id": "CanAll024",
+  "type": "CanonicalAllele",
+  "preferredCtxAllele": "CtxAll027",
+  "identifier": "http://reg.genome.network/allele/CA123287"
+}

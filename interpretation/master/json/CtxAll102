@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll102",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll096",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll102",
+    "identifier": "http://reg.genome.network/allele/CA182840"
+  },
+  "alleleName": "NM_000492.3(CFTR): c.2002C>T"
+}

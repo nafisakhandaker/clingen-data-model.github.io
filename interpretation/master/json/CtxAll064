@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll064",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll060",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll064",
+    "identifier": "http://reg.genome.network/allele/CA279966"
+  },
+  "alleleName": "NM_002755.3(MAP2K1):c.158T>C"
+}

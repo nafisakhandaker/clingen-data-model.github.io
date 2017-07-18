@@ -1,0 +1,21 @@
+{
+  "id": "IndAll241",
+  "type": "IndividualAllele",
+  "individual": {
+    "id": "Indiv025",
+    "type": "Individual",
+    "description": "individual #025"
+  },
+  "primaryAllele": {
+    "id": "CanAll106",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll112",
+    "identifier": "http://reg.genome.network/allele/CA012381"
+  },
+  "secondaryAllele": {
+    "id": "CanAll107",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll113",
+    "identifier": "http://reg.genome.network/allele/CA005304"
+  }
+}

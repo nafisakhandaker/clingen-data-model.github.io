@@ -1,0 +1,26 @@
+{
+  "id": "IndCond012",
+  "type": "IndividualCondition",
+  "individual": {
+    "id": "Indiv001",
+    "type": "Individual",
+    "description": "individual #001"
+  },
+  "condition": [
+    {
+      "id": "MendCond052",
+      "type": "MendelianCondition",
+      "explanation": "dilated cardiomyopathy",
+      "disease": [
+        {
+          "id": "Orphanet:217604",
+          "type": "Coding",
+          "code": "217604",
+          "system": "http://www.orpha.net/",
+          "display": "dilated cardiomyopathy"
+        }
+      ]
+    }
+  ],
+  "hasCondition": true
+}

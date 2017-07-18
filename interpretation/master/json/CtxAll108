@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll108",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll102",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll108",
+    "identifier": "http://reg.genome.network/allele/CA184168"
+  },
+  "alleleName": "NM_147196.2(TMIE):c.391_393dupAAG"
+}

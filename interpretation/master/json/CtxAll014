@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll014",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll011",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll014",
+    "identifier": "http://reg.genome.network/allele/CA256480"
+  },
+  "alleleName": "NM_004985.4(KRAS):c.173C>T (p.Thr58Ile)"
+}

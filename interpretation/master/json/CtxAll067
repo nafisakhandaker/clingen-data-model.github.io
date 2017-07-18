@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll067",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll063",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll067",
+    "identifier": "http://reg.genome.network/allele/CA010136"
+  },
+  "alleleName": "NM_000256.3(MYBPC3)c.1351+1G>A"
+}

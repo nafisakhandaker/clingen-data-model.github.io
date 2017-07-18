@@ -1,0 +1,9 @@
+{
+  "id": "CC289",
+  "type": "CodeableConcept",
+  "coding": [
+    {
+      "id": "BROAD-population-type:NFE"
+    }
+  ]
+}

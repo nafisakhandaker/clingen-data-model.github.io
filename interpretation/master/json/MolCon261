@@ -1,0 +1,28 @@
+{
+  "id": "MolCon261",
+  "type": "MolecularConsequence",
+  "consequence": {
+    "id": "CC188",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "SO:0001819",
+        "type": "Coding",
+        "code": "0001819",
+        "system": "http://sequenceontology.org/",
+        "display": "synonymous variant"
+      }
+    ]
+  },
+  "contextualAllele": {
+    "id": "CtxAll123",
+    "type": "ContextualAllele",
+    "relatedCanonicalAllele": {
+      "id": "CanAll117",
+      "type": "CanonicalAllele",
+      "preferredCtxAllele": "CtxAll123",
+      "identifier": "http://reg.genome.network/allele/CA501232"
+    },
+    "alleleName": "NM_138691.2 (TMC1): c.684C>T"
+  }
+}

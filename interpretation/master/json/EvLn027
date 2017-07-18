@@ -1,0 +1,44 @@
+{
+  "id": "EvLn027",
+  "type": "EvidenceLine",
+  "explanation": "EvLn027",
+  "information": [
+    {
+      "id": "AllFreq053",
+      "type": "AlleleFrequency",
+      "ascertainment": {
+        "id": "CC030",
+        "type": "CodeableConcept",
+        "coding": [
+          {
+            "id": "CG-ascertainment-type:ExAC",
+            "type": "Coding",
+            "code": "ExAC",
+            "system": "http://clinicalgenome.org/datamodel/ascertainment-type/",
+            "display": "ExAC"
+          }
+        ]
+      },
+      "population": {
+        "id": "CC040",
+        "type": "CodeableConcept",
+        "coding": [
+          {
+            "id": "BROAD-population-type:FIN"
+          }
+        ]
+      },
+      "allele": {
+        "id": "CanAll033",
+        "type": "CanonicalAllele",
+        "preferredCtxAllele": "CtxAll037",
+        "identifier": "http://reg.genome.network/allele/CA011797"
+      },
+      "alleleCount": 6614,
+      "alleleNumber": 514,
+      "alleleFrequency": 0.07771,
+      "homozygousAlleleIndividualCount": 21,
+      "medianCoverage": 100.0
+    }
+  ]
+}

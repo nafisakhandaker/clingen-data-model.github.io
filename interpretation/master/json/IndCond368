@@ -1,0 +1,28 @@
+{
+  "id": "IndCond368",
+  "type": "IndividualCondition",
+  "explanation": "This proband had mild to profound hearing loss with EVA, which is characteristic of Pendred Syndrome.",
+  "individual": {
+    "id": "Indiv029",
+    "type": "Individual",
+    "description": "individual #029"
+  },
+  "condition": [
+    {
+      "id": "MendCond058",
+      "type": "MendelianCondition",
+      "explanation": "Hearing Loss",
+      "disease": [
+        {
+          "id": "Orphanet:87884",
+          "type": "Coding",
+          "code": "87884",
+          "system": "http://www.orpha.net/",
+          "display": "nonsyndromic deafness"
+        }
+      ],
+      "name": "Hearing Loss"
+    }
+  ],
+  "hasCondition": true
+}

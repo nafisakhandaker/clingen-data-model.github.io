@@ -1,0 +1,28 @@
+{
+  "id": "MolCon269",
+  "type": "MolecularConsequence",
+  "consequence": {
+    "id": "CC192",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "SO:0001819",
+        "type": "Coding",
+        "code": "0001819",
+        "system": "http://sequenceontology.org/",
+        "display": "synonymous variant"
+      }
+    ]
+  },
+  "contextualAllele": {
+    "id": "CtxAll125",
+    "type": "ContextualAllele",
+    "relatedCanonicalAllele": {
+      "id": "CanAll119",
+      "type": "CanonicalAllele",
+      "preferredCtxAllele": "CtxAll125",
+      "identifier": "http://reg.genome.network/allele/CA177682"
+    },
+    "alleleName": "NM_002880.3(RAF1):c.321T>C"
+  }
+}

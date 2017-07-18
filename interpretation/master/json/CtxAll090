@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll090",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll084",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll090",
+    "identifier": "http://reg.genome.network/allele/CA005477"
+  },
+  "alleleName": "NM_000218.2(KCNQ1):c.1179G>T (p.Lys393Asn)"
+}

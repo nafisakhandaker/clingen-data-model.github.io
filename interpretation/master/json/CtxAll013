@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll013",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll011",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll014",
+    "identifier": "http://reg.genome.network/allele/CA256480"
+  },
+  "alleleName": "NC_000012.12:g.25227351G>A"
+}

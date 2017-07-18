@@ -1,0 +1,18 @@
+{
+  "id": "IndCond018",
+  "type": "IndividualCondition",
+  "individual": {
+    "id": "Indiv003",
+    "type": "Individual",
+    "description": "individual #003"
+  },
+  "condition": [
+    {
+      "id": "MendCond009",
+      "type": "MendelianCondition",
+      "explanation": "Epilepsy with Mental Retardation",
+      "name": "Epilepsy with Mental Retardation"
+    }
+  ],
+  "hasCondition": true
+}

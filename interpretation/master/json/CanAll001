@@ -1,0 +1,6 @@
+{
+  "id": "CanAll001",
+  "type": "CanonicalAllele",
+  "preferredCtxAllele": "CtxAll001",
+  "identifier": "http://reg.genome.network/allele/CA090943"
+}

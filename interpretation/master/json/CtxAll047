@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll047",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll043",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll047",
+    "identifier": "http://reg.genome.network/allele/CA501224"
+  },
+  "alleleName": "NM_003924.3(PHOX2B):c.753_767dup"
+}

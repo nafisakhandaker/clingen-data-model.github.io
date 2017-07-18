@@ -1,0 +1,47 @@
+{
+  "id": "EvLn028",
+  "type": "EvidenceLine",
+  "explanation": "EvLn028",
+  "information": [
+    {
+      "id": "AllFreq054",
+      "type": "AlleleFrequency",
+      "ascertainment": {
+        "id": "CC031",
+        "type": "CodeableConcept",
+        "coding": [
+          {
+            "id": "CG-ascertainment-type:ExAC",
+            "type": "Coding",
+            "code": "ExAC",
+            "system": "http://clinicalgenome.org/datamodel/ascertainment-type/",
+            "display": "ExAC"
+          }
+        ]
+      },
+      "population": {
+        "id": "CC041",
+        "type": "CodeableConcept",
+        "coding": [
+          {
+            "id": "CG-population-type:combined",
+            "type": "Coding",
+            "code": "combined",
+            "system": "http://clinicalgenome.org/datamodel/population-type/",
+            "display": "Combined"
+          }
+        ]
+      },
+      "allele": {
+        "id": "CanAll034",
+        "type": "CanonicalAllele",
+        "preferredCtxAllele": "CtxAll038",
+        "identifier": "http://reg.genome.network/allele/CA273141"
+      },
+      "alleleCount": 0,
+      "alleleNumber": 0,
+      "alleleFrequency": 0.0,
+      "medianCoverage": 11.0
+    }
+  ]
+}

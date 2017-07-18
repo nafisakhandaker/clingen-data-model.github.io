@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll069",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll065",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll069",
+    "identifier": "http://reg.genome.network/allele/CA006429"
+  },
+  "alleleName": "NM_001001430.2(TNNT2):c.629_631delAGA"
+}

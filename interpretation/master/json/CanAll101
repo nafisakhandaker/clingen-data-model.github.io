@@ -1,0 +1,6 @@
+{
+  "id": "CanAll101",
+  "type": "CanonicalAllele",
+  "preferredCtxAllele": "CtxAll107",
+  "identifier": "http://reg.genome.network/allele/CA273551"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "Func194",
+  "type": "FunctionalData",
+  "result": "Unchanged from reference",
+  "dataType": {
+    "id": "CC136",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "CG-func-data-type:neuritegrowth",
+        "type": "Coding",
+        "code": "neuritegrowth",
+        "system": "http://clinicalgenome.org/datamodel/functional-data-type/",
+        "display": "neurite outgrowth"
+      }
+    ]
+  },
+  "contextualAllele": {
+    "id": "CtxAll093",
+    "type": "ContextualAllele",
+    "relatedCanonicalAllele": {
+      "id": "CanAll087",
+      "type": "CanonicalAllele",
+      "preferredCtxAllele": "CtxAll093",
+      "identifier": "http://reg.genome.network/allele/CA501231"
+    },
+    "alleleName": "NM_152594.2(SPRED1): c.587C>T"
+  },
+  "gene": {
+    "id": "hgnc:SPRED1",
+    "type": "Gene",
+    "symbol": "SPRED1"
+  }
+}

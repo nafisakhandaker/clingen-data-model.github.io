@@ -1,0 +1,31 @@
+{
+  "id": "RegAll393",
+  "type": "RegionAlleles",
+  "explanation": "Allele NM_133378.4 (TTN): c.26752_26761delACGGCAGAGC is contained by this region.",
+  "region": {
+    "id": "Loc392",
+    "type": "Locus",
+    "referenceSequence": {
+      "id": "RefSeq009",
+      "type": "ReferenceSequence",
+      "accession": {
+        "id": "NM_133378.4"
+      }
+    },
+    "start": 6509,
+    "stop": 39262
+  },
+  "includedAlleles": [
+    {
+      "id": "CtxAll107",
+      "type": "ContextualAllele",
+      "relatedCanonicalAllele": {
+        "id": "CanAll101",
+        "type": "CanonicalAllele",
+        "preferredCtxAllele": "CtxAll107",
+        "identifier": "http://reg.genome.network/allele/CA273551"
+      },
+      "alleleName": "NM_133378.4 (TTN): c.26752_26761delACGGCAGAGC"
+    }
+  ]
+}

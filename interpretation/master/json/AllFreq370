@@ -1,0 +1,36 @@
+{
+  "id": "AllFreq370",
+  "type": "AlleleFrequency",
+  "ascertainment": {
+    "id": "CC045",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "CG-ascertainment-type:ExAC",
+        "type": "Coding",
+        "code": "ExAC",
+        "system": "http://clinicalgenome.org/datamodel/ascertainment-type/",
+        "display": "ExAC"
+      }
+    ]
+  },
+  "population": {
+    "id": "CC289",
+    "type": "CodeableConcept",
+    "coding": [
+      {
+        "id": "BROAD-population-type:NFE"
+      }
+    ]
+  },
+  "allele": {
+    "id": "CanAll121",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll127",
+    "identifier": "http://reg.genome.network/allele/CA022880"
+  },
+  "alleleCount": 1,
+  "alleleNumber": 66564,
+  "alleleFrequency": 1.5e-05,
+  "homozygousAlleleIndividualCount": 0
+}

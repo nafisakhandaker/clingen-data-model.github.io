@@ -1,0 +1,86 @@
+{
+  "id": "EvLn042",
+  "type": "EvidenceLine",
+  "explanation": "EvLn042",
+  "information": [
+    {
+      "id": "IndCond084",
+      "type": "IndividualCondition",
+      "individual": {
+        "id": "Indiv008",
+        "type": "Individual",
+        "description": "individual #008"
+      },
+      "condition": [
+        {
+          "id": "MendCond018",
+          "type": "MendelianCondition",
+          "explanation": "Birt-Hogg-Dube Syndrome",
+          "disease": [
+            {
+              "id": "Orphanet:122",
+              "type": "Coding",
+              "code": "122",
+              "system": "http://www.orpha.net/",
+              "display": "Birt-Hogg-Dube Syndrome"
+            }
+          ]
+        }
+      ],
+      "hasCondition": true
+    },
+    {
+      "id": "FamHist086",
+      "type": "FamilyHistory",
+      "proband": {
+        "id": "Indiv008",
+        "type": "Individual",
+        "description": "individual #008"
+      },
+      "condition": [
+        {
+          "id": "MendCond018",
+          "type": "MendelianCondition",
+          "explanation": "Birt-Hogg-Dube Syndrome",
+          "disease": [
+            {
+              "id": "Orphanet:122",
+              "type": "Coding",
+              "code": "122",
+              "system": "http://www.orpha.net/",
+              "display": "Birt-Hogg-Dube Syndrome"
+            }
+          ]
+        }
+      ],
+      "familyHasCondition": true
+    },
+    {
+      "id": "DeNovo088",
+      "type": "DeNovoAllele",
+      "explanation": "parentage confirmation not mentioned in the source article",
+      "canonicalAllele": {
+        "id": "CanAll059",
+        "type": "CanonicalAllele",
+        "preferredCtxAllele": "CtxAll063",
+        "identifier": "http://reg.genome.network/allele/CA090951"
+      },
+      "individual": {
+        "id": "Indiv008",
+        "type": "Individual",
+        "description": "individual #008"
+      },
+      "maternityConfirmed": true,
+      "paternityConfirmed": true,
+      "alleleInheritance": [
+        {
+          "id": "CG-allele-inheritance:denovo",
+          "type": "Coding",
+          "code": "denovo",
+          "system": "http://clinicalgenome.org/datamodel/allele-inheritance/",
+          "display": "de novo"
+        }
+      ]
+    }
+  ]
+}

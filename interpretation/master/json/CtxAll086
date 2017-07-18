@@ -1,0 +1,11 @@
+{
+  "id": "CtxAll086",
+  "type": "ContextualAllele",
+  "relatedCanonicalAllele": {
+    "id": "CanAll080",
+    "type": "CanonicalAllele",
+    "preferredCtxAllele": "CtxAll086",
+    "identifier": "http://reg.genome.network/allele/CA501230"
+  },
+  "alleleName": "NM_000414.3(HSD17B4):c.56C>G"
+}

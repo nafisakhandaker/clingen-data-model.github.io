@@ -1,0 +1,13 @@
+{
+  "id": "Loc390",
+  "type": "Locus",
+  "referenceSequence": {
+    "id": "RefSeq008",
+    "type": "ReferenceSequence",
+    "accession": {
+      "id": "NM_001271208.1"
+    }
+  },
+  "start": 154,
+  "stop": 183
+}

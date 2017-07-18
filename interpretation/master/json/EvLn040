@@ -1,0 +1,73 @@
+{
+  "id": "EvLn040",
+  "type": "EvidenceLine",
+  "explanation": "EvLn040",
+  "information": [
+    {
+      "id": "AllFreq082",
+      "type": "AlleleFrequency",
+      "ascertainment": {
+        "id": "CC032",
+        "type": "CodeableConcept",
+        "coding": [
+          {
+            "id": "CG-ascertainment-type:ExAC",
+            "type": "Coding",
+            "code": "ExAC",
+            "system": "http://clinicalgenome.org/datamodel/ascertainment-type/",
+            "display": "ExAC"
+          }
+        ]
+      },
+      "population": {
+        "id": "CC067",
+        "type": "CodeableConcept",
+        "coding": [
+          {
+            "id": "CG-population-type:combined",
+            "type": "Coding",
+            "code": "combined",
+            "system": "http://clinicalgenome.org/datamodel/population-type/",
+            "display": "Combined"
+          }
+        ]
+      },
+      "allele": {
+        "id": "CanAll035",
+        "type": "CanonicalAllele",
+        "preferredCtxAllele": "CtxAll039",
+        "identifier": "http://reg.genome.network/allele/CA090919"
+      },
+      "alleleCount": 0,
+      "alleleFrequency": 0.0,
+      "medianCoverage": 11.0,
+      "contribution": [
+        {
+          "type": "Contribution",
+          "agent": {
+            "id": "Agent001",
+            "type": "Agent",
+            "name": "Harry Stevenson"
+          },
+          "onDate": "6/1/16 2:15 PM",
+          "role": {
+            "id": "CC390",
+            "type": "CodeableConcept",
+            "coding": [
+              {
+                "id": "CG-contributory-role:curator",
+                "type": "Coding",
+                "code": "curator",
+                "system": "http://clinicalgenome.org/datamodel/contributory-role/",
+                "display": "curator"
+              }
+            ]
+          }
+        }
+      ],
+      "source": [
+        "ftp://ftp.broadinstitute.org/pub/ExAC_release/release0.2/"
+      ]
+    }
+  ]
+}
